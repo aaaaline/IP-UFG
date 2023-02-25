@@ -1,4 +1,4 @@
-/* 4. Cálculo do Delta na Equação de Báskara */
+/* 4. Cálculo do Delta na Equação de Báskara (+) */
 #include <stdio.h>
 #include <math.h>
  

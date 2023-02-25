@@ -1,4 +1,4 @@
-/* 3. Custo da Lata de Cerveja */
+/* 3. Custo da Lata de Cerveja (+) */
 #include <stdio.h>
 #include <math.h>
 #define pi 3.14159
