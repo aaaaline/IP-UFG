@@ -31,7 +31,7 @@ int main(){
         
         scanf("%d", &n); maior=-9999;
         
-    }while(n != 0);
+    } while(n != 0);
     
 return 0;
 }

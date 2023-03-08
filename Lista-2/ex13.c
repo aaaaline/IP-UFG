@@ -38,7 +38,6 @@ int main(){
  
     printf("%d\n", vetResultante[0]);
     printf("%d\n", vetResultante[1]);
- 
     
 return 0;
 }

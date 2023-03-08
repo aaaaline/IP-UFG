@@ -8,6 +8,7 @@ void troca (int *x, int* y){
     *x=*y;
     *y=aux;
 }
+
 void bubble(int v[], int n){
     int  i,j;
     for (i=0; i<n-1; i++) {
@@ -18,6 +19,7 @@ void bubble(int v[], int n){
         }
     }
 }
+
 void imprimeVet(int* v, int n){
     int i;
     for (i=0; i<n; i++){
@@ -35,7 +37,6 @@ int main(){
  
     bubble(vet, n);
     imprimeVet(vet, n);
- 
- 
+
 return 0;
 }
