@@ -1,4 +1,4 @@
-/* 4. Zero Vale Zero (+) */
+/* 5. Zero Vale Zero (+) */
 #include <stdio.h>
 #include <string.h>
 #define N 10000
@@ -20,7 +20,7 @@ int main(){
         
         printf("\n");
  
-    }while(n1 != 0 && n2 != 0);
+    } while(n1 != 0 && n2 != 0);
  
 return 0;
 }
